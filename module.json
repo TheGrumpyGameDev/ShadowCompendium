@@ -3,10 +3,11 @@
   "title": "Shadow of the Demon Lord compendium",
   "description": "A module containing a compendium pack",
   "author": "My Name",
+  "systems": ["demonlord"],
   "version": "1.0.0",
     "url": "https://github.com/TheGrumpyGameDev/ShadowCompendium",
     "manifest": "https://raw.githubusercontent.com/TheGrumpyGameDev/ShadowCompendium/main/module.json",
-    "download": "https://github.com/TheGrumpyGameDev/ShadowCompendium/archive/main.zip",
+    "download": "https://github.com/TheGrumpyGameDev/ShadowCompendium/archive/master.zip",
     "minimumCoreVersion": "0.6.2",
     "compatibleCoreVersion": "0.6.2",
   "packs": [
