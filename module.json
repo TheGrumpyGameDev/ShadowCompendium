@@ -1,0 +1,25 @@
+{
+  "name": "shadow",
+  "title": "Shadow of the Demon Lord compendium",
+  "description": "A module containing a compendium pack",
+  "author": "My Name",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.6.0",
+  "compatibleCoreVersion": "0.7.0",
+  "packs": [
+    {
+      "name": "ancestory",
+      "label": "Ancestories",
+      "path": "packs/ancestory.db",
+      "entity": "Item",
+      "module": "shadow"
+    },
+    {
+      "name": "talents",
+      "label": "Talents",
+      "path": "packs/talents.db",
+      "entity": "Item",
+      "module": "shadow"
+    }
+  ]
+}
