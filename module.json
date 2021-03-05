@@ -15,9 +15,44 @@
       "module": "shadow"
     },
     {
-      "name": "talents",
-      "label": "Talents",
-      "path": "packs/talents.db",
+      "name": "changeling",
+      "label": "Changeling",
+      "path": "packs/changeling.db",
+      "entity": "Item",
+      "module": "shadow"
+    },
+    {
+      "name": "clockwork",
+      "label": "Clockwork",
+      "path": "packs/clockwork.db",
+      "entity": "Item",
+      "module": "shadow"
+    },
+    {
+      "name": "dwarf",
+      "label": "Dwarf",
+      "path": "packs/dwarf.db",
+      "entity": "Item",
+      "module": "shadow"
+    },
+    {
+      "name": "goblin",
+      "label": "Goblin",
+      "path": "packs/goblin.db",
+      "entity": "Item",
+      "module": "shadow"
+    },
+    {
+      "name": "human",
+      "label": "Human",
+      "path": "packs/human.db",
+      "entity": "Item",
+      "module": "shadow"
+    },
+    {
+      "name": "orc",
+      "label": "Orc",
+      "path": "packs/orc.db",
       "entity": "Item",
       "module": "shadow"
     }
