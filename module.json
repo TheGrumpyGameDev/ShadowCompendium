@@ -6,9 +6,9 @@
   "version": "1.0.0",
     "url": "https://github.com/TheGrumpyGameDev/ShadowCompendium",
     "manifest": "https://raw.githubusercontent.com/TheGrumpyGameDev/ShadowCompendium/main/module.json",
-    "download": "",
+    "download": "https://github.com/TheGrumpyGameDev/ShadowCompendium/archive/main.zip",
     "minimumCoreVersion": "0.6.2",
-    "compatibleCoreVersion": "0.6.2"
+    "compatibleCoreVersion": "0.6.2",
   "packs": [
     {
       "name": "ancestory",
