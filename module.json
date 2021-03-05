@@ -4,8 +4,11 @@
   "description": "A module containing a compendium pack",
   "author": "My Name",
   "version": "1.0.0",
-  "minimumCoreVersion": "0.6.0",
-  "compatibleCoreVersion": "0.7.0",
+    "url": "https://github.com/TheGrumpyGameDev/ShadowCompendium",
+    "manifest": "https://raw.githubusercontent.com/TheGrumpyGameDev/ShadowCompendium/main/module.json",
+    "download": "",
+    "minimumCoreVersion": "0.6.2",
+    "compatibleCoreVersion": "0.6.2"
   "packs": [
     {
       "name": "ancestory",
